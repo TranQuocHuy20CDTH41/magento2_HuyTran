@@ -1,0 +1,5 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1666116856;s:6:"expire";i:1666120456;s:4:"tags";s:43:"866_STORE,866_CMS_B,866_BLOCK_HTML,866_MAGE";}
+a:2:{s:8:"policies";a:1:{i:0;a:3:{s:2:"id";s:10:"script-src";s:5:"hosts";a:0:{}s:6:"hashes";a:6:{s:44:"XuhN/weDqZTNigkja1QiVvYHrVYeWPpIfl6QvJkxv0k=";s:6:"sha256";s:44:"48sb4Je7XoTlJimO7pm/+fwXo5BBI6oU4Vci+QqK2/I=";s:6:"sha256";s:44:"HUjaEs6gPI/8f06cL8Wy1zR3vaPjSDAYb+YL5IRBsf4=";s:6:"sha256";s:44:"9N89WMndeXJQQmez3zcXupuWhb0jRtPuHYgRtBa1Cjo=";s:6:"sha256";s:44:"5QY0lTrDeuMkty9yX05tSxWJNwEduDK6NCz5kcVIxgE=";s:6:"sha256";s:44:"J16ArVp/qkXS3U4BoIEa8H6m5xqDRBM6tLXXVZ5a6fI=";s:6:"sha256";}}}s:4:"html";s:113:"<small class="copyright">
+    <span>Copyright © 2013-present Magento, Inc. All rights reserved.</span>
+</small>
+";}
